@@ -1,0 +1,15 @@
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.container{
+    width: 200px;
+    height: 200px;
+    border: 1px black solid;
+    padding: 100px;
+    margin: 20px;
+    border-radius: 10px;
+}
