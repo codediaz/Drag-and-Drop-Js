@@ -5,7 +5,7 @@ box.addEventListener('dragstart', e => {
 box.addEventListener('dragend', e => {
     console.log('Drag End')
 })
-box.addEventListener('dragend', e => {
+box.addEventListener('drag', e => {
     console.log('Drag')
 })
 
