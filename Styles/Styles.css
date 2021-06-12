@@ -52,6 +52,7 @@ nav a {
 #box{
     font-size: 35px;
     margin: 20px;
+    margin-left: 50px;
 
  
 }
@@ -62,6 +63,7 @@ nav a {
     border: 1px white solid;
     
     margin: 20px;
+    margin-left: 100px;
     border-radius: 10px;
     background-color: white;
 }
